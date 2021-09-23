@@ -1,0 +1,22 @@
+{
+  "name": "testcafe-browser-provider-chromex",
+  "version": "0.1.0",
+  "description": "TestCafe browser provider for Chrome with customizable screenshot format.",
+  "repository": "https://github.com/gavoja/testcafe-browser-provider-chromex",
+  "homepage": "https://github.com/gavoja/testcafe-browser-provider-chromex",
+  "author": {
+    "name": "Michal Kochel",
+    "email": "gavoja@gmail.com"
+  },
+  "main": "index",
+  "keywords": [
+    "testcafe",
+    "browser provider",
+    "plugin",
+    "chrome",
+    "jpeg",
+    "jpg",
+    "webp"
+  ],
+  "license": "MIT"
+}
